@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\PizzaOrderAssToluA\PizzaOrderAssToluA\bin\Debug\PizzaOrderAssToluA.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\PizzaOrderAssToluA\PizzaOrderAssToluA\bin\Debug\PizzaOrderAssToluA.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\PizzaOrderAssToluA\PizzaOrderAssToluA\bin\Debug\PizzaOrderAssToluA.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\PizzaOrderAssToluA\PizzaOrderAssToluA\obj\Debug\PizzaOrderAssToluA.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\PizzaOrderAssToluA\PizzaOrderAssToluA\obj\Debug\PizzaOrderAssToluA.frmPizzaOrderAssignment.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\PizzaOrderAssToluA\PizzaOrderAssToluA\obj\Debug\PizzaOrderAssToluA.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\PizzaOrderAssToluA\PizzaOrderAssToluA\obj\Debug\PizzaOrderAssToluA.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\PizzaOrderAssToluA\PizzaOrderAssToluA\obj\Debug\PizzaOrderAssToluA.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\PizzaOrderAssToluA\PizzaOrderAssToluA\obj\Debug\PizzaOrderAssToluA.pdb
