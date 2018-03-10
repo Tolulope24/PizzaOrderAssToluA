@@ -15,6 +15,9 @@ namespace PizzaOrderAssToluA
         public frmPizzaOrderAssignment()
         {
             InitializeComponent();
+            lblSubtotal.Hide();
+            lblTax.Hide();
+            lblTotal.Hide();
         }
 
         private void numericUpDown1_ValueChanged(object sender, EventArgs e)
@@ -33,6 +36,11 @@ namespace PizzaOrderAssToluA
         }
 
         private void nudNumberOfToppings_ValueChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnCalculate_Click(object sender, EventArgs e)
         {
 
         }

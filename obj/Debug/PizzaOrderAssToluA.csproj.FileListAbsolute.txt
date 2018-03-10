@@ -7,3 +7,13 @@ N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s44878
 N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\PizzaOrderAssToluA\PizzaOrderAssToluA\obj\Debug\PizzaOrderAssToluA.csproj.GenerateResource.Cache
 N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\PizzaOrderAssToluA\PizzaOrderAssToluA\obj\Debug\PizzaOrderAssToluA.exe
 N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\PizzaOrderAssToluA\PizzaOrderAssToluA\obj\Debug\PizzaOrderAssToluA.pdb
+C:\Users\Tolu\Desktop\Grade 11 Programming\PizzaOrderAssToluA\bin\Debug\PizzaOrderAssToluA.exe.config
+C:\Users\Tolu\Desktop\Grade 11 Programming\PizzaOrderAssToluA\bin\Debug\PizzaOrderAssToluA.exe
+C:\Users\Tolu\Desktop\Grade 11 Programming\PizzaOrderAssToluA\bin\Debug\PizzaOrderAssToluA.pdb
+C:\Users\Tolu\Desktop\Grade 11 Programming\PizzaOrderAssToluA\obj\Debug\PizzaOrderAssToluA.csprojResolveAssemblyReference.cache
+C:\Users\Tolu\Desktop\Grade 11 Programming\PizzaOrderAssToluA\obj\Debug\PizzaOrderAssToluA.frmPizzaOrderAssignment.resources
+C:\Users\Tolu\Desktop\Grade 11 Programming\PizzaOrderAssToluA\obj\Debug\PizzaOrderAssToluA.Properties.Resources.resources
+C:\Users\Tolu\Desktop\Grade 11 Programming\PizzaOrderAssToluA\obj\Debug\PizzaOrderAssToluA.csproj.GenerateResource.Cache
+C:\Users\Tolu\Desktop\Grade 11 Programming\PizzaOrderAssToluA\obj\Debug\PizzaOrderAssToluA.csproj.CoreCompileInputs.cache
+C:\Users\Tolu\Desktop\Grade 11 Programming\PizzaOrderAssToluA\obj\Debug\PizzaOrderAssToluA.exe
+C:\Users\Tolu\Desktop\Grade 11 Programming\PizzaOrderAssToluA\obj\Debug\PizzaOrderAssToluA.pdb
